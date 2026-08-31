@@ -14,6 +14,9 @@ nicht automatisch frei kommerziell weiterverwendbar.
 - [`KI_Kennzeichnungsregelwerk_Adalbert_Pojda.md`](./KI_Kennzeichnungsregelwerk_Adalbert_Pojda.md)
   – Regelwerk zur Kennzeichnung KI-unterstützter Inhalte (Version 1.0,
   Stand 31.08.2026).
+- [`KI_Datenschutzregelwerk_Adalbert_Pojda.md`](./KI_Datenschutzregelwerk_Adalbert_Pojda.md)
+  – Regelwerk zum Umgang mit personenbezogenen Daten in KI-Werkzeugen
+  (Version 1.0, Stand 31.08.2026).
 
 ## Anweisung für ein Sprachmodell
 
